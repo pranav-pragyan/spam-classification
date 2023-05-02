@@ -1,2 +1,2 @@
 # spam-classification
-An NLP project on spam classification using Naive Bayes ML model.
+An NLP project on email spam classification using Naive Bayes ML model.
